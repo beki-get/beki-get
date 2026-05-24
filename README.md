@@ -5,20 +5,21 @@ I primarily focus on Designing and architecting scalable, high-performance backe
  
  My Skills
 
-                                             Backend Development
+                                                Backend Development
   <p align="center">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,express" />
   </a>
 </p>
-                                              Databases & Cloud
+
+                                                Databases & Cloud
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,gcp,vercel,postgres,sqlite,redis,mongodb" />
   </a>
 </p>
 
-                                             Frontend frameworks and languages
+                                                Frontend frameworks and languages
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs" />
