@@ -7,13 +7,22 @@ I primarily focus on Designing and architecting scalable, high-performance backe
   Backend Development
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,express)" />
+    <img src="https://skillicons.dev/icons?i=js,ts,express" />
   </a>
 </p>
    Databases & Cloud
-[![My Skills](https://skillicons.dev/icons?i=docker,gcp,vercel,postgres,sqlite,redis,mongodb)](https://skillicons.dev)
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,gcp,vercel,postgres,sqlite,redis,mongodb" />
+  </a>
+</p>
+
 Frontend frameworks and languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs)](https://skillicons.dev)
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs" />
+  </a>
+</p>
   Connect with me
   Email: 
  
