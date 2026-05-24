@@ -4,8 +4,8 @@ I primarily focus on Designing and architecting scalable, high-performance backe
   Integrating the Meta ecosystem (WhatsApp, Facebook, Instagram APIs) with core business systems
 
  Connect With Me
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Upwork](https://shields.io)](https://upwork.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/bereket-getaye)
+[![Upwork](https://shields.io)](https://upwork.com/beki-get)
 [![Email](https://shields.io)](mailto:bereketgetayea@gmail.com)
  
  My Skills
