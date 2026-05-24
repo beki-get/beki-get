@@ -6,7 +6,7 @@ I primarily focus on Designing and architecting scalable, high-performance backe
  My Skills
   
  <p align="center">
-    Backend Development
+   <b>Backend Development</b>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,express" />
   </a>
