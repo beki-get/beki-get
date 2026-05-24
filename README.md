@@ -4,8 +4,9 @@ I primarily focus on Designing and architecting scalable, high-performance backe
   Integrating the Meta ecosystem (WhatsApp, Facebook, Instagram APIs) with core business systems
  
  My Skills
-  Backend Development
+  
  <p align="center">
+    Backend Development
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,express" />
   </a>
