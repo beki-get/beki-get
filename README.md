@@ -2,9 +2,9 @@ Hi there, I'm Bereket, a Meta API and backend developer.
 
 I primarily focus on 
 
-  Designing and architecting scalable, high-performance backend services
+  -Designing and architecting scalable, high-performance backend services
   
-  Integrating the Meta ecosystem (WhatsApp, Facebook, Instagram APIs) with core business systems
+  -Integrating the Meta ecosystem (WhatsApp, Facebook, Instagram APIs) with core business systems
 
  Connect With Me
 [![LinkedIn](https://shields.io)](https://linkedin.com/in/bereket-getaye)
